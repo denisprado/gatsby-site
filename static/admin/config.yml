@@ -1,5 +1,5 @@
 backend:
-  name: git-gateway
+  name: github
   repo: denisprado/gatsby-site
 media_folder: static/assets
 public_folder: assets
